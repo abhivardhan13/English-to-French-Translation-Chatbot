@@ -104,10 +104,9 @@ English-to-French-Translation-Chatbot/
 
 ![Exit Demo](screenshots/exit-demo.png)
 
+## Project Status
+Completed ✅
 
 ## Author
 **Bhukya Abhivardhan Nayak**  
 B.Tech Biomedical Engineering
-
-## Project Status
-Completed ✅
