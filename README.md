@@ -108,3 +108,6 @@ English-to-French-Translation-Chatbot/
 ## Author
 **Bhukya Abhivardhan Nayak**  
 B.Tech Biomedical Engineering
+
+## Project Status
+Completed ✅
