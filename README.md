@@ -86,6 +86,24 @@ English-to-French-Translation-Chatbot/
 - Voice output functionality
 - Graphical User Interface (GUI)
 - Web application deployment
+## Screenshots
+
+### Startup
+
+![Startup](screenshots/chatbot-startup.png)
+
+### Translation Example
+
+![Translation Example](screenshots/translation-example.png)
+
+### Multiple Translations
+
+![Multiple Translations](screenshots/multiple-translations.png)
+
+### Exit Functionality
+
+![Exit Demo](screenshots/exit-demo.png)
+
 
 ## Author
 **Bhukya Abhivardhan Nayak**  
